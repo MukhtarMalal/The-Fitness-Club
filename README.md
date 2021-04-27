@@ -31,5 +31,7 @@ This is a website for The Fitness Club gym. This website will help visitors find
  * ##	Wireframes
  
    * Home Page Wirframe
+![Home Page Wireframe](https://github.com/MukhtarMalal/The-Fitness-Club/blob/master/Home%20Page%20Wireframe.png)
+
    * Mobile Wireframe
    * Contact Us Page Wireframe
