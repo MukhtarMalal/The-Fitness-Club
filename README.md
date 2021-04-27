@@ -25,7 +25,7 @@ This is a website for The Fitness Club gym. This website will help visitors find
   * **Typography**
     *	The Open Sans font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Open Sans is a clean font used frequently in gym websites, so it is both attractive and appropriate.
    
-  * **Typography**
+  * **Imagery**
     *	Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
  
  * ##	Wireframes
