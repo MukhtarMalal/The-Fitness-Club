@@ -44,4 +44,4 @@ This is a website for The Fitness Club gym. This website will help visitors find
 
    * Log In Page Wireframe
 
-![Log In Wireframe](
+![Log In Wireframe](https://github.com/MukhtarMalal/The-Fitness-Club/blob/master/Log%20in%20Wireframe.png)
