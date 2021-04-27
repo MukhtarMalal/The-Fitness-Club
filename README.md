@@ -15,9 +15,8 @@ This is a website for The Fitness Club gym. This website will help visitors find
     3.	As a Returning Visitor, I want to find community links.
   
   * **Frequent User Goals**
-    1.	As a Frequent User, I want to check to see if there are any news updates regarding events, classes, Covid-19 etc.
-    2.	As a Frequent User, I want to check to see if there are any new blog posts.
-    3.	As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+    1.	As a Frequent User, I want to check to see if there are any news updates regarding events, Covid-19 etc.
+    2.	As a Frequent User, I want to see classes times.
 
 * ##	Design
   * **Colour Scheme**
