@@ -41,8 +41,12 @@ This is a website for The Fitness Club gym. This website will help visitors find
 
    * About Us Page Wireframe
 
-![About Us Page Wireframe](https://github.com/MukhtarMalal/The-Fitness-Club/blob/master/About%20us%20Wireframe.png)
+![About Us Page Wireframe](https://github.com/MukhtarMalal/The-Fitness-Club/blob/master/About%20Us%20Wireframe.png)
 
-   * Log In Page Wireframe
+   * Tablet Wirframe
 
-![Log In Wireframe](https://github.com/MukhtarMalal/The-Fitness-Club/blob/master/Log%20in%20Wireframe.png)
+![Tablet Wireframe]()
+
+   * Smart Phone Wirframe
+
+![Smart Phone Wireframe]()
