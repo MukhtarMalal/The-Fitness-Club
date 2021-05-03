@@ -26,12 +26,12 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: #99180d;
+    color: #da2212;
     display: block;
 }
 
 nav a:hover {
-    border-bottom: 2px solid #99180d;
+    border-bottom: 2px solid #da2212;
 }
 
 #logo {
@@ -96,7 +96,7 @@ nav a:hover {
 
 #testimonials {
     font-size: 130%;
-    color: #99180d;
+    color: #da2212;
     background-color: #313131;
     text-align: center;
 }
@@ -129,7 +129,7 @@ section p {
 
 #info-title {
     font-size: 130%;
-    color: #99180d;
+    color: #da2212;
     background-color: #313131;
     text-align: center;
 }
@@ -156,7 +156,7 @@ section p {
 
 #latest-title {
     font-size: 130%;
-    color: #99180d;
+    color: #da2212;;
     background-color: #313131;
     text-align: center;
 }
@@ -179,3 +179,121 @@ section p {
     background-position: initial;
     width: 100%;
     overflow: hidden;
+}
+
+footer {
+    color: #313131;
+    background-color: #313131;
+    height: 100px;
+}
+
+.social {
+    text-align: center;
+}
+
+.social li {
+    display: inline;
+}
+
+.social i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 1%;
+    color: #da2212;
+}
+
+
+#main-heading {
+    color: #da2212;
+    padding-left: 100px;
+    padding-top: 10px;
+    background-image: url("https://www.pixeden.com/media/k2/galleries/26/005-dark-texture.jpg");
+    background-size: cover;
+    width: 100%;
+}
+
+#call-us {
+    color: #91c1ff;
+    text-align: center;
+    padding-top: 10px;
+    background-image: url("https://www.pixeden.com/media/k2/galleries/26/005-dark-texture.jpg");
+    background-size: cover;
+    width: 100%;
+}
+
+#our-story {
+    background-color: rgb(255, 255, 255, .6);
+    border-radius: 5%;
+    width: 550px;
+    height: 540px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    margin: 45px;
+}
+
+#about-us-body {
+    background-image: url("https://images.squarespace-cdn.com/content/v1/52f29591e4b0d3acccdd6286/1462216063331-6B55A7YE3M2SMKMD2O66/ke17ZwdGBToddI8pDm48kB6N0s8PWtX2k_eW8krg04V7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMU7fvvF4_I1AsKJxSaFAczej2i4XSEhssEoFyFMQUwMjOqpeNLcJ80NK65_fV7S1UdCPTzq5fB4E52xYnTd-RTVDaSs45u-eZUxa7Z0a1LyaHKQ75RZ2Q9aASgDzklgV5w/fitness+female+weight+gym+dft1-026.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: initial;
+    width: 100%;
+    overflow: hidden;
+}
+
+#staff-image {
+    height: 100px;
+    vertical-align: middle;
+    border-radius: 15%;
+    margin-top: 10px;
+}
+
+#our-team p {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+#our-team {
+    background-color: rgb(255, 255, 255, .6);
+    border-radius: 5%;
+    width: 550px;
+    height: 540px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    margin: 45px;
+}
+
+#contact div {
+    display: inline-block
+}
+
+#contact {
+    background-color: rgb(255, 255, 255, .6);
+    border-radius: 2%;
+    width: 450px;
+    height: 200px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    margin: 45px;
+}
+
+#contact-social {
+    background-image: url("https://snappygoat.com/b/ae456b5b53721bff2a252d99f616767bbcc12bae");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: initial;
+    width: 100%;
+    overflow: hidden;
+}
+
+#social {
+    background-color: rgb(255, 255, 255, .6);
+    border-radius: 2%;
+    width: 450px;
+    height: 200px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    margin: 45px;
