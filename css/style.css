@@ -209,7 +209,10 @@ footer {
     padding-top: 10px;
     background-image: url("https://www.pixeden.com/media/k2/galleries/26/005-dark-texture.jpg");
     background-size: cover;
-    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100;
+    overflow: hidden;
 }
 
 #call-us {
@@ -297,3 +300,4 @@ footer {
     padding: 30px 0 0 10px;
     text-align: center;
     margin: 45px;
+}
