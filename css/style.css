@@ -94,7 +94,7 @@ nav a:hover {
     position: absolute;
 }
 
-#testimonials {
+#home-title {
     font-size: 130%;
     color: #da2212;
     background-color: #313131;
@@ -127,12 +127,6 @@ section p {
     margin: 7px;
 }
 
-#info-title {
-    font-size: 130%;
-    color: #da2212;
-    background-color: #313131;
-    text-align: center;
-}
 
 #info-box {
     background-color: rgb(255, 255, 255, .6);
@@ -154,12 +148,6 @@ section p {
     overflow: hidden;
 }
 
-#latest-title {
-    font-size: 130%;
-    color: #da2212;;
-    background-color: #313131;
-    text-align: center;
-}
 
 #latest-box {
     background-color: rgb(255, 255, 255, .6);
