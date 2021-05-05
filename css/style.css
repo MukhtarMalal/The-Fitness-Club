@@ -35,11 +35,10 @@ nav a:hover {
 }
 
 #logo {
-    margin-left: 40px;
+    margin-left: 20px;
     margin-top: 10px;
     float: left;
-    height: 90px;
-    width: 300px;
+    height: 80px;
 }
 
 #logo, #nav {
@@ -139,6 +138,14 @@ section p {
     margin: 45px;
 }
 
+@media (max-width: 600px) {
+    #info-box {
+      width: 100%;
+      margin: 6px 0;
+    }
+  }
+
+
 #info-background {
     background-image: url("https://img4.goodfon.com/wallpaper/nbig/4/a2/workout-female-gym-fitness.jpg");
     background-size: cover;
@@ -159,6 +166,16 @@ section p {
     text-align: center;
     margin: 45px;
 }
+
+
+@media (max-width: 600px) {
+    #latest-box {
+      width: 100%;
+      height: auto;
+      margin: 6px 0;
+    }
+  }
+
 
 #latest-background {
     background-image: url("https://snappygoat.com/b/ae456b5b53721bff2a252d99f616767bbcc12bae");
@@ -216,7 +233,7 @@ footer {
     background-color: rgb(255, 255, 255, .6);
     border-radius: 5%;
     width: 550px;
-    height: 540px;
+    height: 700px;
     float: left;
     padding: 30px 0 0 10px;
     text-align: center;
@@ -255,6 +272,17 @@ footer {
     margin: 45px;
 }
 
+
+@media (max-width: 600px) {
+    #our-story, #our-team {
+      border-radius: 0%;
+      width: 100%;
+      height: auto;
+      margin: 6px 0;
+    }
+  }
+
+
 #contact div {
     display: inline-block
 }
@@ -289,6 +317,15 @@ footer {
     text-align: center;
     margin: 45px;
 }
+
+@media (max-width: 600px) {
+    #social, #contact {
+      border-radius: 0%;
+      width: 100%;
+      height: auto;
+      margin: 6px 0;
+    }
+  }
 
 
 
