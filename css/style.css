@@ -24,11 +24,19 @@ nav li {
     
 }
 
+@media (max-width: 600px) {
+nav li {
+    font-size: 1.2em;
+    }
+  }
+
+
 nav a {
     text-decoration: none;
     color: #da2212;
     display: block;
 }
+
 
 nav a:hover {
     border-bottom: 2px solid #da2212;
@@ -40,6 +48,7 @@ nav a:hover {
     float: left;
     height: 80px;
 }
+
 
 #logo, #nav {
     line-height: 120px;
@@ -138,8 +147,9 @@ section p {
     margin: 45px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 500px) {
     #info-box {
+      border-radius: 0%;
       width: 100%;
       margin: 6px 0;
     }
@@ -170,6 +180,7 @@ section p {
 
 @media (max-width: 600px) {
     #latest-box {
+      border-radius: 0%;
       width: 100%;
       height: auto;
       margin: 6px 0;
@@ -302,7 +313,7 @@ footer {
     background-image: url("https://snappygoat.com/b/ae456b5b53721bff2a252d99f616767bbcc12bae");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: initial;
+    background-position: center;
     width: 100%;
     overflow: hidden;
 }
