@@ -42,7 +42,7 @@ nav a:hover {
     border-bottom: 2px solid #da2212;
 }
 
-#logo {
+.logo {
     margin-left: 20px;
     margin-top: 10px;
     float: left;
@@ -50,11 +50,11 @@ nav a:hover {
 }
 
 
-#logo, #nav {
+.logo, .nav {
     line-height: 120px;
 }
 
-#hero {
+.hero {
     height: 600px;
     width: 100%;
     background: url("https://images.squarespace-cdn.com/content/v1/544e4488e4b060d072055407/1556800945862-PHKWV8ING7VRSFQVN6M4/ke17ZwdGBToddI8pDm48kAt72yGFwHZjoxtmj75n0VMUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dvp1wM0jvciobd5mvjBb-PkjbbxSYDSdt-BIyUswy_5eG6v6ULRah83RgHXAWD5lbQ/George+Coppock+Photography+Commercial+Advertising+%26+Brands+Leeds+Spin+Class.jpg?format=2500w") no-repeat center center;
@@ -64,7 +64,7 @@ nav a:hover {
     animation-fill-mode: forwards;
 }
 
-#hero-out {
+.hero-out {
     height: 600px;
     width: 100%;
     overflow: hidden;
@@ -80,11 +80,11 @@ nav a:hover {
     }
 }
 
-#text, #text h2{
+.text, .text h2{
     color: #ffffff;
 }
 
-#text {
+.text {
     font-size: 130%;
     font-family: 'Open Sans', sans-serif;
     
@@ -102,7 +102,7 @@ nav a:hover {
     position: absolute;
 }
 
-#home-title {
+.home-title {
     font-size: 130%;
     color: #da2212;
     background-color: #313131;
@@ -113,7 +113,7 @@ section p {
     color: black;
 }
 
-#testimonial-background {
+.testimonial-background {
     background-image: url("https://img4.goodfon.com/wallpaper/nbig/f/55/workout-weight-gym-training-spina-muscle-abs-myshtsy-trenazh.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -124,7 +124,7 @@ section p {
 }
 
 
-#testimonial {
+.testimonial {
     background-color: rgb(255, 255, 255, .6);
     border-radius: 5%;
     width: 310px;
@@ -136,7 +136,7 @@ section p {
 }
 
 
-#info-box {
+.info-box {
     background-color: rgb(255, 255, 255, .6);
     border-radius: 5%;
     width: 340px;
@@ -148,7 +148,7 @@ section p {
 }
 
 @media (max-width: 500px) {
-    #info-box {
+    .info-box {
       border-radius: 0%;
       width: 100%;
       margin: 6px 0;
@@ -156,7 +156,7 @@ section p {
   }
 
 
-#info-background {
+.info-background {
     background-image: url("https://img4.goodfon.com/wallpaper/nbig/4/a2/workout-female-gym-fitness.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -166,7 +166,7 @@ section p {
 }
 
 
-#latest-box {
+.latest-box {
     background-color: rgb(255, 255, 255, .6);
     border-radius: 5%;
     width: 550px;
@@ -179,7 +179,7 @@ section p {
 
 
 @media (max-width: 600px) {
-    #latest-box {
+    .latest-box {
       border-radius: 0%;
       width: 100%;
       height: auto;
@@ -188,7 +188,7 @@ section p {
   }
 
 
-#latest-background {
+.latest-background {
     background-image: url("https://snappygoat.com/b/ae456b5b53721bff2a252d99f616767bbcc12bae");
     background-size: cover;
     background-repeat: no-repeat;
@@ -219,7 +219,7 @@ footer {
 }
 
 
-#main-heading {
+.main-heading {
     color: #da2212;
     padding-left: 100px;
     padding-top: 10px;
@@ -231,7 +231,7 @@ footer {
     overflow: hidden;
 }
 
-#call-us {
+.call-us {
     color: #91c1ff;
     text-align: center;
     padding-top: 10px;
@@ -240,7 +240,7 @@ footer {
     width: 100%;
 }
 
-#our-story {
+.our-story {
     background-color: rgb(255, 255, 255, .6);
     border-radius: 5%;
     width: 550px;
@@ -251,7 +251,7 @@ footer {
     margin: 45px;
 }
 
-#about-us-body {
+.about-us-body {
     background-image: url("https://images.squarespace-cdn.com/content/v1/52f29591e4b0d3acccdd6286/1462216063331-6B55A7YE3M2SMKMD2O66/ke17ZwdGBToddI8pDm48kB6N0s8PWtX2k_eW8krg04V7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMU7fvvF4_I1AsKJxSaFAczej2i4XSEhssEoFyFMQUwMjOqpeNLcJ80NK65_fV7S1UdCPTzq5fB4E52xYnTd-RTVDaSs45u-eZUxa7Z0a1LyaHKQ75RZ2Q9aASgDzklgV5w/fitness+female+weight+gym+dft1-026.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -260,19 +260,19 @@ footer {
     overflow: hidden;
 }
 
-#staff-image {
+.staff-image {
     height: 100px;
     vertical-align: middle;
     border-radius: 15%;
     margin-top: 10px;
 }
 
-#our-team h5 {
+.our-team h5 {
     display: inline-block;
     margin-left: 10px;
 }
 
-#our-team {
+.our-team {
     background-color: rgb(255, 255, 255, .6);
     border-radius: 5%;
     width: 550px;
@@ -285,7 +285,7 @@ footer {
 
 
 @media (max-width: 600px) {
-    #our-story, #our-team {
+    .our-story, .our-team {
       border-radius: 0%;
       width: 100%;
       height: auto;
@@ -294,11 +294,11 @@ footer {
   }
 
 
-#contact div {
+.contact div {
     display: inline-block
 }
 
-#contact, #social {
+.contact, .social {
     background-color: rgb(255, 255, 255, .6);
     border-radius: 2%;
     width: 450px;
@@ -309,7 +309,7 @@ footer {
     margin: 45px 100px;
 }
 
-#contact-social {
+.contact-social {
     background-image: url("https://snappygoat.com/b/ae456b5b53721bff2a252d99f616767bbcc12bae");
     background-size: cover;
     background-repeat: no-repeat;
@@ -320,7 +320,7 @@ footer {
 
 
 @media (max-width: 600px) {
-    #social, #contact {
+    .social, .contact {
       border-radius: 0%;
       width: 100%;
       height: auto;
@@ -372,7 +372,7 @@ div.gallery {
   }
 
 
-  #gallery-background {
+  .gallery-background {
     background-image: url("https://images.squarespace-cdn.com/content/v1/52f29591e4b0d3acccdd6286/1462216063331-6B55A7YE3M2SMKMD2O66/ke17ZwdGBToddI8pDm48kB6N0s8PWtX2k_eW8krg04V7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMU7fvvF4_I1AsKJxSaFAczej2i4XSEhssEoFyFMQUwMjOqpeNLcJ80NK65_fV7S1UdCPTzq5fB4E52xYnTd-RTVDaSs45u-eZUxa7Z0a1LyaHKQ75RZ2Q9aASgDzklgV5w/fitness+female+weight+gym+dft1-026.jpg");
     background-size: cover;
     background-repeat: no-repeat;
