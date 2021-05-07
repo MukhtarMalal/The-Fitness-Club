@@ -12,7 +12,7 @@ This is a website for The Fitness Club gym. This website will help visitors find
     5.	I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
     
   * **Returning Visitor Goals**
-    2.	As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+    1.	As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
   
   * **Frequent User Goals**
     1.	As a Frequent User, I want to check to see if there are any news updates regarding events, Covid-19 etc.
