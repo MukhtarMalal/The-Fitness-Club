@@ -12,7 +12,7 @@ This is a website for The Fitness Club gym. This website will help visitors find
     5.	I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
     
   * **Returning Visitor Goals**
-    1.	As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+    1.	As a Returning Visitor, I want to find the best way to get in contact with the organisation if I have any questions.
   
   * **Frequent User Goals**
     1.	As a Frequent User, I want to check to see if there are any news updates regarding events, Covid-19 etc.
@@ -86,3 +86,31 @@ W3C CSS Validator - Results
         1. The site has been designed for ease of users' navigation. The main navigations links are located on top right corner on all three pages 'Home, Gallery, About me'.
         2. The content of the pages are well organise. This makes sure that users are never lost.
         3. Clicking on the logo will always take back to the home page.
+        4. Social media links are at the bottom on all pages.
+   
+   4. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted.
+        1. Testimonials are located on home page underneath the hero image.
+        2. Testimonials include images of the customers. Images can make the testimonials more trust worthy.
+        3. Testimonials also include 5 star rating.
+   
+   5. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+        1. Social media links are located in the footer section on Home page and Gallery, and at the bottom in Social box in About Us page.
+        2. Clicking on the social media links will open the social media websites in a separate tab, to give the users better experience.
+  
+   * #### Returning Visitor Goals
+   
+   1. As a Returning Visitor, I want to find the best way to get in contact with the organisation if I have any questions.
+        1. The navigation bar highlights the "About Us" Page, in which there contact details; Phone number, email address, and address of the gym.
+        2. The footer contains links to the gym's YouTube, Facebook, Twitter and Instagram pages.
+        3. All of the links, when clicked, will open in a new tab so that the users can easily get back to the website.
+    
+   * #### Returning Visitor Goals
+   
+   1. As a Frequent User, I want to check to see if there are any news updates regarding events, Covid-19 etc.
+        1. When users scroll down to the bottom of the Home page, there is a section called news updates.
+        2. There is infotmation about any new updates.
+        3. Next to the news updates, there is a section that provides information about what the gym is doing to make sure gym users are safe during the Covid-19 pandemic.
+   
+   2. As a Frequent User, I want to see classes times.
+        1. All the classes are located on Home page under Testimonials.
+        2. Users can see the classes available and the times.
