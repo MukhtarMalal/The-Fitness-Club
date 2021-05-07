@@ -53,20 +53,14 @@ This is a website for The Fitness Club gym. This website will help visitors find
 
 ### Frameworks, Libraries, and Programs Used
 
-* [Hover.css:](https://ianlunn.github.io/Hover/)
-  * Hover.css was used on navigation link icons, gallery images to add underline when hovered over.
+* [Hover.css](https://ianlunn.github.io/Hover/) - Hover.css was used on navigation link icons, gallery images to add underline when hovered over.
 
-* [Google Fonts:](https://fonts.google.com/)
-  * Google Fonts were used to import the 'Open Sans' font into the style.css file which is used on all pages throughout the project.
+* [Google Fonts](https://fonts.google.com/) - Google Fonts were used to import the 'Open Sans' font into the style.css file which is used on all pages throughout the project.
 
-* [Font Awesome:](https://fontawesome.com/)
-  * Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+* [Font Awesome](https://fontawesome.com/) - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 
-* [Git:](https://git-scm.com/)
-  * Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+* [Git](https://git-scm.com/) - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 
-* [GitHub:](https://github.com/)
-  * GitHub is used to store the projects code after being pushed from Git.
+* [GitHub](https://github.com/) - GitHub is used to store the projects code after being pushed from Git.
 
-* [Balsamiq:](https://balsamiq.com/)
-  * Balsamiq was used to create the wireframes during the design process.
+* [Balsamiq](https://balsamiq.com/) - Balsamiq was used to create the wireframes during the design process.
