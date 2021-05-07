@@ -1,6 +1,8 @@
 # The Fitness Club
 This is a website for The Fitness Club gym. This website will help visitors find the most suitable training packages, whether body building, weight losing, or general fitness, the easy navigation will help them find what they’re looking for. The website has a responsive design and will work on devices with different screen sizes. 
 
+## User Experience (UX)
+
 * ##	User stories
   * **First Time Visitor Goals**
     1.	As a First Time Visitor, I want to see what offers are available for me, prices, packages etc.
@@ -36,3 +38,35 @@ This is a website for The Fitness Club gym. This website will help visitors find
 [Tablet Wireframes](https://github.com/MukhtarMalal/The-Fitness-Club/blob/master/docs/Wireframes/tablet.md)
 
 [Mobile phone Wireframes](https://github.com/MukhtarMalal/The-Fitness-Club/blob/master/docs/Wireframes/Mobile.md)
+
+## Features
+
+* Responsive on different device sizes
+* Interactive elements
+
+## Technologies Used
+
+### Languages Used
+
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+### Frameworks, Libraries, and Programs Used
+
+* [Hover.css:](https://ianlunn.github.io/Hover/)
+  * Hover.css was used on navigation link icons, gallery images to add underline when hovered over.
+
+* [Google Fonts:](https://fonts.google.com/)
+  * Google Fonts were used to import the 'Open Sans' font into the style.css file which is used on all pages throughout the project.
+
+* [Font Awesome:](https://fontawesome.com/)
+  * Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+
+* [Git:](https://git-scm.com/)
+  * Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+
+* [GitHub:](https://github.com/)
+  * GitHub is used to store the projects code after being pushed from Git.
+
+* [Balsamiq:](https://balsamiq.com/)
+  * Balsamiq was used to create the wireframes during the design process.
