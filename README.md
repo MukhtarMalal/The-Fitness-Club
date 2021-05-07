@@ -16,7 +16,7 @@ This is a website for The Fitness Club gym. This website will help visitors find
   
   * **Frequent User Goals**
     1.	As a Frequent User, I want to check to see if there are any news updates regarding events, Covid-19 etc.
-    2.	As a Frequent User, I want to see classes times.
+    2.	As a Frequent User, I want to see what types are classes are being offered.
 
 * ##	Design
   * **Colour Scheme**
@@ -29,7 +29,7 @@ This is a website for The Fitness Club gym. This website will help visitors find
     *	The Open Sans font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Open Sans is a clean font used frequently in gym websites, so it is both attractive and appropriate.
    
   * **Imagery**
-    *	Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+    *	Imagery is very important. The large, background hero image has a zoom in animation and it is striking and catches user's attention. It is modern and has a positive and energetic feel.
  
  * ##	Wireframes
  
@@ -111,6 +111,6 @@ W3C CSS Validator - Results
         2. There is infotmation about any new updates.
         3. Next to the news updates, there is a section that provides information about what the gym is doing to make sure gym users are safe during the Covid-19 pandemic.
    
-   2. As a Frequent User, I want to see classes times.
+   2. As a Frequent User, I want to see what types are classes are being offered.
         1. All the classes are located on Home page under Testimonials.
-        2. Users can see the classes available and the times.
+        2. Users can see a list of different types of classes available.
