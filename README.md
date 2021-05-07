@@ -64,3 +64,25 @@ This is a website for The Fitness Club gym. This website will help visitors find
 * [GitHub](https://github.com/) - GitHub is used to store the projects code after being pushed from Git.
 
 * [Balsamiq](https://balsamiq.com/) - Balsamiq was used to create the wireframes during the design process.
+
+## Testing
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+W3C Markup Validator - Results
+W3C CSS Validator - Results
+
+### Testing User Stories from User Experience (UX) Section
+
+   * #### First Time Visitor Goals
+   1. As a First Time Visitor, I want to see what offers are available for me, prices, packages etc.
+        1. Upon entering the site, users can see the prices per month, special offers such as 'No Joining fee', and 'First month half price'. When scrolled down, there are further special offers such as concessions for people on benefits and students.
+        
+   2. As a first time visitor, I want to see the facilities and equipment in the gym, and opening and closing times.
+        1. Opening and closing times of the gym are located on home page.
+        2. Images of facilities and equipment are in the Gallery page.
+       
+   3. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+        1. The site has been designed for ease of users' navigation. The main navigations links are located on top right corner on all three pages 'Home, Gallery, About me'.
+        2. The content of the pages are well organise. This makes sure that users are never lost.
+        3. Clicking on the logo will always take back to the home page.
