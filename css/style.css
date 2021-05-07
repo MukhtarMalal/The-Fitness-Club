@@ -123,7 +123,7 @@ section p {
 
 }
 
-
+/*
 .testimonial {
     background-color: rgb(255, 255, 255, .6);
     border-radius: 5%;
@@ -134,13 +134,54 @@ section p {
     text-align: center;
     margin: 7px;
 }
+*/
+
+.testimonial {
+    background-color: rgb(255, 255, 255, .6);
+    border-radius: 5%;
+    width: 20%;
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    margin: 6px 0 0 42px;
+}
+
+@media (max-width: 1100px) {
+    .testimonial {
+      border-radius: 5%;
+      width: 40%;
+      margin: 6px 30px;
+      padding: 0 0 50px 0;
+    }
+  }
+
+  @media (max-width: 720px) {
+    .testimonial {
+      border-radius: 5%;
+      width: 50%;
+      margin: 6px 150px;
+      padding: 0 0 50px 0;
+    }
+  }
+
+@media (max-width: 600px) {
+    .testimonial {
+      border-radius: 0%;
+      width: 100%;
+      margin: 6px 0;
+      padding: 0 0 50px 0;
+    }
+  }
+
 
 .testimonial-background .testimonial-image {
     height: 100px;
     border-radius: 50%;
 }
 
-
+/*
 .info-box {
     background-color: rgb(255, 255, 255, .6);
     border-radius: 5%;
@@ -151,12 +192,44 @@ section p {
     text-align: center;
     margin: 45px;
 }
+*/
 
-@media (max-width: 500px) {
+.info-box {
+    background-color: rgb(255, 255, 255, .6);
+    border-radius: 5%;
+    width: 25%;
+    height: 380px;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    margin: 6px 47px;
+}
+
+@media (max-width: 1300px) {
+    .info-box {
+      border-radius: 5%;
+      width: 40%;
+      margin: 6px 30px;
+      padding: 0 0 50px 0;
+    }
+  }
+
+  @media (max-width: 720px) {
+    .info-box {
+      border-radius: 5%;
+      width: 40%;
+      margin: 6px 170px;
+      padding: 0 0 50px 0;
+    }
+  }
+
+@media (max-width: 600px) {
     .info-box {
       border-radius: 0%;
       width: 100%;
       margin: 6px 0;
+      padding: 0 0 50px 0;
     }
   }
 
@@ -170,7 +243,7 @@ section p {
     overflow: hidden;
 }
 
-
+/*
 .latest-box {
     background-color: rgb(255, 255, 255, .6);
     border-radius: 5%;
@@ -181,7 +254,39 @@ section p {
     text-align: center;
     margin: 45px;
 }
+*/
 
+.latest-box {
+    background-color: rgb(255, 255, 255, .6);
+    border-radius: 5%;
+    width: 40%;
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    margin: 6px 60px;
+}
+
+@media (max-width: 1300px) {
+    .latest-box {
+      border-radius: 5%;
+      width: 40%;
+      height: auto;
+      margin: 6px 40px;
+      padding: 0 0 50px 0;
+    }
+  }
+
+  @media (max-width: 720px) {
+    .latest-box {
+      border-radius: 5%;
+      width: 40%;
+      height: auto;
+      margin: 6px 170px;
+      padding: 0 0 50px 0;
+    }
+  }
 
 @media (max-width: 600px) {
     .latest-box {
@@ -189,6 +294,7 @@ section p {
       width: 100%;
       height: auto;
       margin: 6px 0;
+      padding: 0 0 50px 0;
     }
   }
 
@@ -224,6 +330,7 @@ footer {
 }
 
 
+
 .main-heading {
     color: #da2212;
     padding-left: 100px;
@@ -244,8 +351,8 @@ footer {
     background-size: cover;
     width: 100%;
 }
-
-.our-story {
+/*
+.our-story, .our-team {
     background-color: rgb(255, 255, 255, .6);
     border-radius: 5%;
     width: 550px;
@@ -254,6 +361,19 @@ footer {
     padding: 30px 0 0 10px;
     text-align: center;
     margin: 45px;
+}
+*/
+
+.our-story, .our-team {
+    background-color: rgb(255, 255, 255, .6);
+    border-radius: 5%;
+    width: 40%;
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 30px 10px 20px 10px;
+    text-align: center;
+    margin: 6px 55px;
 }
 
 .about-us-body {
@@ -277,16 +397,26 @@ footer {
     margin-left: 10px;
 }
 
-.our-team {
-    background-color: rgb(255, 255, 255, .6);
-    border-radius: 5%;
-    width: 550px;
-    height: 700px;
-    float: left;
-    padding: 30px 0 0 10px;
-    text-align: center;
-    margin: 45px;
-}
+
+@media (max-width: 1320px) {
+    .our-story, .our-team {
+      border-radius: 5%;
+      width: 50%;
+      height: auto;
+      margin: 6px 250px;
+      padding: 0 0 50px 0;
+    }
+  }
+  
+  @media (max-width: 800px) {
+    .our-story, .our-team {
+      border-radius: 5%;
+      width: 50%;
+      height: auto;
+      margin: 6px 170px;
+      padding: 0 0 50px 0;
+    }
+  }
 
 
 @media (max-width: 600px) {
@@ -295,6 +425,7 @@ footer {
       width: 100%;
       height: auto;
       margin: 6px 0;
+      padding: 0 0 50px 0;
     }
   }
 
@@ -303,6 +434,7 @@ footer {
     display: inline-block
 }
 
+/*
 .contact, .social {
     background-color: rgb(255, 255, 255, .6);
     border-radius: 2%;
@@ -313,6 +445,20 @@ footer {
     text-align: center;
     margin: 45px 100px;
 }
+*/
+
+.contact, .social {
+  background-color: rgb(255, 255, 255, .6);
+  border-radius: 2%;
+  width: 40%;
+  height: auto;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 30px 10px 20px 10px;
+  text-align: center;
+  margin: 6px 55px;
+}
+
 
 .contact-social {
     background-image: url("https://snappygoat.com/b/ae456b5b53721bff2a252d99f616767bbcc12bae");
@@ -324,17 +470,36 @@ footer {
 }
 
 
+@media (max-width: 1320px) {
+  .contact, .social {
+    border-radius: 5%;
+    width: 50%;
+    height: auto;
+    margin: 6px 250px;
+    padding: 0 0 50px 0;
+  }
+}
+
+@media (max-width: 800px) {
+  .contact, .social {
+    border-radius: 5%;
+    width: 50%;
+    height: auto;
+    margin: 6px 170px;
+    padding: 0 0 50px 0;
+  }
+}
+
+
 @media (max-width: 600px) {
     .social, .contact {
       border-radius: 0%;
       width: 100%;
       height: auto;
       margin: 6px 0;
+      padding: 0 0 50px 0;
     }
   }
-
-
-
 
 div.gallery {
     border: 1px solid black;
@@ -358,8 +523,8 @@ div.gallery {
   
   .responsive {
     padding: 0 6px;
-    float: left;
-    width: 24.99999%;
+    display: inline-block;
+    width: 300px;
 
   }
   
