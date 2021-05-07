@@ -31,4 +31,4 @@ This is a website for The Fitness Club gym. This website will help visitors find
  
  * ##	Wireframes
  
- https://github.com/MukhtarMalal/The-Fitness-Club/blob/master/docs/Wireframes/README.MD
+[Desktop, Tablet, and Mobile phone Wireframes](https://github.com/MukhtarMalal/The-Fitness-Club/blob/master/docs/Wireframes/README.MD)
