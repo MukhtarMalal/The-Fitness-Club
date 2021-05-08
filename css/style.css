@@ -123,19 +123,6 @@ section p {
 
 }
 
-/*
-.testimonial {
-    background-color: rgb(255, 255, 255, .6);
-    border-radius: 5%;
-    width: 310px;
-    height: 350px;
-    float: left;
-    padding: 10px 0 10px 10px;
-    text-align: center;
-    margin: 7px;
-}
-*/
-
 .testimonial {
     background-color: rgb(255, 255, 255, .6);
     border-radius: 5%;
@@ -181,18 +168,6 @@ section p {
     border-radius: 50%;
 }
 
-/*
-.info-box {
-    background-color: rgb(255, 255, 255, .6);
-    border-radius: 5%;
-    width: 340px;
-    height: 380px;
-    float: left;
-    padding: 30px 0 0 10px;
-    text-align: center;
-    margin: 45px;
-}
-*/
 
 .info-box {
     background-color: rgb(255, 255, 255, .6);
@@ -243,18 +218,6 @@ section p {
     overflow: hidden;
 }
 
-/*
-.latest-box {
-    background-color: rgb(255, 255, 255, .6);
-    border-radius: 5%;
-    width: 550px;
-    height: auto;
-    float: left;
-    padding: 30px 0 0 10px;
-    text-align: center;
-    margin: 45px;
-}
-*/
 
 .latest-box {
     background-color: rgb(255, 255, 255, .6);
@@ -355,18 +318,7 @@ footer p {
     background-size: cover;
     width: 100%;
 }
-/*
-.our-story, .our-team {
-    background-color: rgb(255, 255, 255, .6);
-    border-radius: 5%;
-    width: 550px;
-    height: 700px;
-    float: left;
-    padding: 30px 0 0 10px;
-    text-align: center;
-    margin: 45px;
-}
-*/
+
 
 .our-story, .our-team {
     background-color: rgb(255, 255, 255, .6);
@@ -438,18 +390,6 @@ footer p {
     display: inline-block
 }
 
-/*
-.contact, .social {
-    background-color: rgb(255, 255, 255, .6);
-    border-radius: 2%;
-    width: 450px;
-    height: 200px;
-    float: left;
-    padding: 30px 0 0 10px;
-    text-align: center;
-    margin: 45px 100px;
-}
-*/
 
 .contact, .social {
   background-color: rgb(255, 255, 255, .6);
