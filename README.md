@@ -141,3 +141,9 @@ To view the deployed version, the steps underneath can be followed:
 * It can take a few minutes to publish.
 
 ### Forking the GitHub Repository
+
+Forking the GitHub Repository will make a copy of the original repository on our GitHub account for us to view or make changes without affecting the original repository. This can be done by following the steps below.
+
+* Log in to [GitHub](https://github.com/) and locate the GitHub Repository or click here [https://github.com/MukhtarMalal/The-Fitness-Club](https://github.com/MukhtarMalal/The-Fitness-Club)
+* Locate the "Fork" Button above the "Settings" Button on the menu, at the top of the Repository (not top of page). 
+* You should now have a copy of the original repository in your GitHub account.
