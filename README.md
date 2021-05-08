@@ -115,3 +115,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
       2. As a Frequent User, I want to see what types are classes are being offered.
           1. All the classes are located on Home page under Testimonials.
           2. Users can see a list of different types of classes available.
+
+### Further testing
+
+* The website was viewed on a variety of devices such as Laptop, iPhone, Moto G4, iPad Pro, Galaxy S5.
+* Testing was done to ensure that all pages were linking correctly.
+
+### Known Bugs
+* On some bigger screen sizes where the Hero image is smaller than the width of the screen, the Hero Image stays in the center, leaving some white spaces on both right and left hand sides.
+
+## Deployment
