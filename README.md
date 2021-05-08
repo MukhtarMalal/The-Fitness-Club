@@ -132,9 +132,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 To view the deployed version, the steps underneath can be followed:
 
 * Go to [GitHub](https://github.com/)
-* Find MukhtarMalal's page
-* Select repositories.
-* Select the The-Fitness-Club repository.
+* Find MukhtarMalal's page or click here [https://github.com/MukhtarMalal/The-Fitness-Club](https://github.com/MukhtarMalal/The-Fitness-Club)
 * Locate the "Settings" Button on the menu, at the top of the Repository (not top of page).
+* Find "pages" on the left hand side menu.
 * Under "Source", click the dropdown called "None" and select "Master Branch".
 * Click save, the page will refresh.
