@@ -69,8 +69,9 @@ This is a website for The Fitness Club gym. This website will help visitors find
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-W3C Markup Validator - Results
-W3C CSS Validator - Results
+* [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+* [View results here](https://github.com/MukhtarMalal/The-Fitness-Club/blob/master/docs/W3C/README.MD)
 
 ### Testing User Stories from User Experience (UX) Section
 
