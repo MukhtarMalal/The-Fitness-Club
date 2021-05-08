@@ -185,7 +185,15 @@ $ git clone https://github.com/MukhtarMalal/The-Fitness-Club
 
 ### Images
 
-* 
+Images used in the project are copyright free.
+
+* Hero image by [squarespace-cdn.com](https://images.squarespace-cdn.com/content/v1/544e4488e4b060d072055407/1556800945862-PHKWV8ING7VRSFQVN6M4/ke17ZwdGBToddI8pDm48kAt72yGFwHZjoxtmj75n0VMUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dvp1wM0jvciobd5mvjBb-PkjbbxSYDSdt-BIyUswy_5eG6v6ULRah83RgHXAWD5lbQ/George+Coppock+Photography+Commercial+Advertising+%26+Brands+Leeds+Spin+Class.jpg?format=2500w)
+* Background images 
+  * [goodfon.com](https://img4.goodfon.com/wallpaper/nbig/f/55/workout-weight-gym-training-spina-muscle-abs-myshtsy-trenazh.jpg)
+  * [goodfon.com](https://img4.goodfon.com/wallpaper/nbig/4/a2/workout-female-gym-fitness.jpg)
+  * [Snappygoat.com](https://snappygoat.com/b/ae456b5b53721bff2a252d99f616767bbcc12bae)
+  * [Pixeden.com](https://www.pixeden.com/media/k2/galleries/26/005-dark-texture.jpg)
+  * [squarespace-cdn.com](https://images.squarespace-cdn.com/content/v1/52f29591e4b0d3acccdd6286/1462216063331-6B55A7YE3M2SMKMD2O66/ke17ZwdGBToddI8pDm48kB6N0s8PWtX2k_eW8krg04V7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMU7fvvF4_I1AsKJxSaFAczej2i4XSEhssEoFyFMQUwMjOqpeNLcJ80NK65_fV7S1UdCPTzq5fB4E52xYnTd-RTVDaSs45u-eZUxa7Z0a1LyaHKQ75RZ2Q9aASgDzklgV5w/fitness+female+weight+gym+dft1-026.jpg)
 
 ## Acknowledgements
 
