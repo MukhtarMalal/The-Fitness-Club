@@ -195,6 +195,19 @@ Images used in the project are copyright free.
   * [Pixeden.com](https://www.pixeden.com/media/k2/galleries/26/005-dark-texture.jpg)
   * [squarespace-cdn.com](https://images.squarespace-cdn.com/content/v1/52f29591e4b0d3acccdd6286/1462216063331-6B55A7YE3M2SMKMD2O66/ke17ZwdGBToddI8pDm48kB6N0s8PWtX2k_eW8krg04V7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMU7fvvF4_I1AsKJxSaFAczej2i4XSEhssEoFyFMQUwMjOqpeNLcJ80NK65_fV7S1UdCPTzq5fB4E52xYnTd-RTVDaSs45u-eZUxa7Z0a1LyaHKQ75RZ2Q9aASgDzklgV5w/fitness+female+weight+gym+dft1-026.jpg)
 
+* Testimonial and staff member images by [istockphoto](https://www.istockphoto.com/)
+* Gallery images:
+   * [Cardio classes for seniors](https://img1.wsimg.com/isteam/ip/a36ee340-edcb-419c-b8df-622b10231480/peopleonelliptical.jpg)
+   * [Cardio + weights](https://www.krausanderson.com/wp-content/uploads/2019/02/08_Kraus-Anderson-Block-KA-Minneapolis-Office-Mpls-Fitness-Center.jpg)
+   * [Main workout area](https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vbWVkaWEucmJsLm1zL2ltYWdlP3U9JTJGZmlsZXMlMkYyMDE3JTJGMDIlMkYyNiUyRjYzNjIzNzM0NDA5OTE0NTUyOC0yOTU1MzcwNDJfdGhlJTI1MjBneW0uanBnJmhvPWh0dHBzJTNBJTJGJTJGYXo2MTY1Nzgudm8ubXNlY25kLm5ldCZzPTM5NiZoPTMyZGNkYTk0YzI5YTA3ODQ2NTlmNzFhNDY5MDEyODQyMWU4MTk2ZTEwZWVjNmUyMGEwODliODM5NWM3NWI2OTEmc2l6ZT05ODB4JmM9MjcwNTgwMjU4NSIsImV4cGlyZXNfYXQiOjE2NjA5NDAzNTd9.ezYPg3xLy6RsG4oeFvLPWIOJxbOS1SXLJKiHHvsY2nI/img.jpg?width=1200&height=628)
+   * [Cardio area](https://www.liderempresarial.com/wp-content/uploads/2020/03/acciones-de-sports-world-caen-coronavirus.jpg)
+   * [Free weight training area](https://www.shindokan-ev.de/wp-content/uploads/2020/04/12372-scaled.jpg)
+   * [Power lifting area](http://www.bhliveactive.org.uk/wp-content/uploads/2018/09/BHLIVE_033_%C2%A9DavidEaton_Nov042017.jpg)
+   * [Rowing machines](https://img.grouponcdn.com/deal/2iktVGuyYW2zcriyf5kmx8Vq6NtZ/2i-2048x1229/v1/c870x524.jpg)
+   * [Yoga area](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsIRRViZc-IRJPZptnq-r5_u-x6O5SPpiT6g&usqp=CAU)
+   * [All female cardio area](http://www.thebodypulse.com/assets/img/gallery/team1.png)
+
+
 ## Acknowledgements
 
 * Thanks to the tutors and my mentor for their help and guidance.
