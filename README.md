@@ -138,3 +138,6 @@ To view the deployed version, the steps underneath can be followed:
 * Find "pages" on the left hand side menu.
 * Under "Source", click the dropdown called "None" and select "Master Branch".
 * Click save, the page will refresh.
+* It can take a few minutes to publish.
+
+### Forking the GitHub Repository
