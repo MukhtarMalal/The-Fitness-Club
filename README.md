@@ -170,3 +170,10 @@ $ git clone https://github.com/MukhtarMalal/The-Fitness-Club
    * Unpacking objects: 100% (10/10), done.
  
  More instructions with images can be found [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop)
+
+## Credits
+
+### Code
+
+* Code for Hero image animation taken from Code Institute tutorial - Love Running project [Code Institute](https://codeinstitute.net/)
+* Credits to [www.w3schools.com](www.w3schools.com] for help with Gallery images.
