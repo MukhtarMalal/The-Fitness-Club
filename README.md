@@ -147,3 +147,20 @@ Forking the GitHub Repository will make a copy of the original repository on our
 * Log in to [GitHub](https://github.com/) and locate the GitHub Repository or click here [https://github.com/MukhtarMalal/The-Fitness-Club](https://github.com/MukhtarMalal/The-Fitness-Club)
 * Locate the "Fork" Button above the "Settings" Button on the menu, at the top of the Repository (not top of page). 
 * You should now have a copy of the original repository in your GitHub account.
+
+### Making a Local Clone
+
+* Log in to [GitHub](https://github.com/) and locate the GitHub Repository or click here [https://github.com/MukhtarMalal/The-Fitness-Club](https://github.com/MukhtarMalal/The-Fitness-Club)
+* Under the repository name, click "Clone or download".
+* To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+Open Git Bash
+* Change the current working directory to the location where you want the cloned directory to be made.
+* Type git clone, and then paste the URL you copied in Step 3.
+$ git clone https://github.com/MukhtarMalal/The-Fitness-Club
+* Press Enter. Your local clone will be created.
+$ git clone https://github.com/MukhtarMalal/The-Fitness-Club
+> Cloning into `CI-Clone`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
