@@ -126,3 +126,15 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 * On some bigger screen sizes where the Hero image is smaller than the width of the screen, the Hero Image stays in the center, leaving some white spaces on both right and left hand sides.
 
 ## Deployment
+
+### GitHub Pages
+
+To view the deployed version, the steps underneath can be followed:
+
+* Go to [GitHub](https://github.com/)
+* Find MukhtarMalal's page
+* Select repositories.
+* Select the The-Fitness-Club repository.
+* Locate the "Settings" Button on the menu, at the top of the Repository (not top of page).
+* Under "Source", click the dropdown called "None" and select "Master Branch".
+* Click save, the page will refresh.
