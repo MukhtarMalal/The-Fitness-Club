@@ -119,6 +119,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Further testing
 
+* The website has been tested on Google Chrome.
 * The website was viewed on a variety of devices such as Laptop, iPhone, Moto G4, iPad Pro, Galaxy S5.
 * Testing was done to ensure that all pages were linking correctly.
 
