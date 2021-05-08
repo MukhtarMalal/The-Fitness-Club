@@ -40,6 +40,10 @@ This is a website for The Fitness Club gym. This website will help visitors find
 
 [Mobile phone Wireframes](https://github.com/MukhtarMalal/The-Fitness-Club/blob/master/docs/Wireframes/Mobile.md)
 
+### Changes
+
+* Some changes were made to the layout of the website, especially in Gallery, for aesthetic purposes.
+
 ## Features
 
 * Responsive on different device sizes
