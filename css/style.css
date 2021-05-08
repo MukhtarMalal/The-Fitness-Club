@@ -309,9 +309,14 @@ section p {
 }
 
 footer {
-    color: #313131;
     height: 100px;
     background-color: #313131;
+}
+
+footer p {
+  color: #ffffff;
+  text-align: center;
+  vertical-align: middle;
 }
 
 #social {
@@ -339,7 +344,6 @@ footer {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    width: 100;
     overflow: hidden;
 }
 
