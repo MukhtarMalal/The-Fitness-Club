@@ -24,6 +24,7 @@ This is a website for The Fitness Club gym. This website will help visitors find
  
 ![Colour Charcoal](https://github.com/MukhtarMalal/The-Fitness-Club/blob/master/docs/Colour%20Scheme/Charcoal.png)
 ![Colour Red](https://github.com/MukhtarMalal/The-Fitness-Club/blob/master/docs/Colour%20Scheme/Red.png)
+![Colour Red-2](https://github.com/MukhtarMalal/The-Fitness-Club/blob/master/docs/Colour%20Scheme/red2.PNG)
     
   * **Typography**
     *	The Open Sans font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Open Sans is a clean font used frequently in gym websites, so it is both attractive and appropriate.
