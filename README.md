@@ -178,6 +178,11 @@ $ git clone https://github.com/MukhtarMalal/The-Fitness-Club
 * Code for Hero image animation taken from Code Institute tutorial - Love Running project [Code Institute](https://codeinstitute.net/)
 * Credits to [w3schools](www.w3schools.com) for providing code for Gallery images.
 
+### For research when I forgot how things worked again:
+* [Code Institute LMS](https://learn.codeinstitute.net/login)
+* [w3schools](www.w3schools.com)
+* [Stack Overflow](https://stackoverflow.com/)
+
 ### Images
 
 * 
@@ -186,4 +191,3 @@ $ git clone https://github.com/MukhtarMalal/The-Fitness-Club
 
 * Thanks to the tutors and my mentor for their help and guidance.
 * Thanks to the Slack community for helping me last minute to deploy the site.
-* 
